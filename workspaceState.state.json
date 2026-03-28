@@ -1,0 +1,173 @@
+{
+  "workspaceFoldersFilePaths": [
+    "c:\\Users\\28363\\Desktop\\Maven Web/"
+  ],
+  "symbols": [],
+  "activeFileDiagnostics": [],
+  "debugConsoleOutput": "",
+  "terminalBuffer": "PS C:\\Users\\28363\\Desktop\\Maven Web> \r\n *  还原的历史记录 \r\n\r\nPS C:\\Users\\28363\\Desktop\\Maven Web> \r\n *  还原的历史记录 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPS C:\\Users\\28363\\Desktop\\Maven Web> ",
+  "terminalSelection": "",
+  "terminalShellType": "pwsh",
+  "repoContexts": [
+    {
+      "_repo": {
+        "rootUri": {
+          "$mid": 1,
+          "path": "/c:/Users/28363/Desktop/Maven Web",
+          "scheme": "file"
+        },
+        "inputBox": {},
+        "kind": "repository",
+        "state": {},
+        "ui": {},
+        "isUsingVirtualFileSystem": false
+      },
+      "rootUri": {
+        "$mid": 1,
+        "path": "/c:/Users/28363/Desktop/Maven Web",
+        "scheme": "file"
+      },
+      "kind": "repository",
+      "isUsingVirtualFileSystem": false,
+      "headBranchName": "main",
+      "headCommitHash": "18e3d458e624e26272917f6a5de03e4fa926fcfd",
+      "headIncomingChanges": 0,
+      "headOutgoingChanges": 0,
+      "upstreamBranchName": "main",
+      "upstreamRemote": "origin",
+      "isRebasing": true,
+      "remotes": [
+        "origin"
+      ],
+      "remoteFetchUrls": [
+        "git@github.com:gandipeng/Seconde-hand-trading-platform.git"
+      ],
+      "worktrees": [
+        {
+          "name": "Maven Web",
+          "path": "c:\\Users\\28363\\Desktop\\Maven Web",
+          "ref": "refs/heads/main",
+          "detached": false,
+          "main": true
+        }
+      ],
+      "changes": {
+        "mergeChanges": [],
+        "indexChanges": [],
+        "workingTree": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "untrackedChanges": []
+      },
+      "_onDidChangeSignal": {
+        "_observers": {},
+        "debugName": "Observable Signal From Event"
+      },
+      "headBranchNameObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "headCommitHashObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "upstreamBranchNameObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "upstreamRemoteObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "isRebasingObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "_checkIsIgnored": {
+        "_waitingTimeMs": 1000,
+        "_queue": [],
+        "_timeout": null
+      },
+      "_isIgnored": {
+        "_map": {},
+        "_map2": {}
+      }
+    }
+  ],
+  "notebookDocumentFilePaths": [],
+  "textDocumentFilePaths": []
+}
